@@ -16,7 +16,7 @@
    </a>
 </h3>
 <h3>💻 Sobre: </h3>
-<p align="center">Esse projeto foi desenvolvido durante uma Next Level Week, disponibilizado pela RocketSeat. O projeto consiste em publicar anúncio para encontrar um duo para sua jogatina online, selecionando o jogo e criando o anúncio.</p>
+<p align="center">Esse projeto foi desenvolvido durante uma Next Level Week, disponibilizado pela RocketSeat. O projeto consiste em um player de podcasts.</p>
 <hr/>
 <h3>🛠 Tecnologias utilizadas: </h3>
 <ul>
